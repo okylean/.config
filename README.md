@@ -1,5 +1,8 @@
 # Dotfiles
 
+## Deploy
+
+> 参考 https://github.com/theniceboy/.config/blob/master/bin/upgrade-all 实现。
 
 
 ## References
